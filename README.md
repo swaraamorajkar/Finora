@@ -18,7 +18,7 @@ This is especially true for students, young professionals, and first‑time earn
 
 ## Demo
 Interactive prototype (Figma):  
-[Open Finora Prototype](https://www.figma.com/make/FXI8oaGHe1nHAhXrEB38l9/FINAL-HACKATHON-FINORA-AI?code-node-id=0-6&p=f&t=NNT1pAEqYfzsOqou-0&fullscreen=1&hide-ui=1)
+[Open Finora Prototype](https://thank-cipher-08256251.figma.site/)
 
 > This is an interactive Figma prototype showing the user flow and experience. The final product will be a standalone web/app interface with a real AI backend.
 
