@@ -18,7 +18,7 @@ This is especially true for students, young professionals, and first‑time earn
 
 ## Demo
 Interactive prototype (Figma):  
-[Open Finora Prototype](https://thank-cipher-08256251.figma.site/)
+[Open Finora Prototype](https://thank-cipher-08256251.figma.site)
 
 > This is an interactive Figma prototype showing the user flow and experience. The final product will be a standalone web/app interface with a real AI backend.
 
